@@ -41,10 +41,7 @@ The primary objective of this project is to analyze the 2022 annual sales data f
 
 The interactive dashboard features dynamic slicers (Date, Category, Gender, Month) to filter multiple Pivot Charts simultaneously.
 
-!\[Vrinda Store Sales Dashboard](./image/Dashboard.png)
-
-\---
-
+![Vrinda Store Sales Dashboard](./image/Dashboard.png)
 ## 🏗️ Project Architecture
 
 The data pipeline and workflow followed a structured analytical approach entirely within Microsoft Excel.
